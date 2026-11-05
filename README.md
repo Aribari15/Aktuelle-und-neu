@@ -35,3 +35,5 @@ Der Build lädt den aktuellen Provider-Code von `InvalidPandaa/nuvio-german-prov
 ## Lizenz und Herkunft
 
 Die Provider-Implementierung stammt aus [InvalidPandaa/nuvio-german-providers](https://github.com/InvalidPandaa/nuvio-german-providers), lizenziert unter GPL-3.0-or-later. Bei Weiterverteilung die GPL und die Urheberhinweise beachten. Nur Inhalte verwenden, für die eine Nutzungsberechtigung besteht.
+
+serie https://aribari15.github.io/Aktuelle-und-neu/manifest.json
