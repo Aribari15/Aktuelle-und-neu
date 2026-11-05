@@ -1,0 +1,19 @@
+{
+  "name": "Nuvio Serien CH",
+  "version": "1.0.0",
+  "description": "Separater SerienStream-Provider für Nuvio, basierend auf dem GPL-Projekt German Providers",
+  "author": "Aribari15 (basierend auf InvalidPandaa/German Providers, GPL-3.0-or-later)",
+  "scrapers": [
+    {
+      "id": "serienstream-ch",
+      "name": "SerienStream CH",
+      "description": "Serien in Deutsch und Originalsprache von SerienStream",
+      "version": "1.0.0",
+      "filename": "providers/serienstream.js",
+      "supportedTypes": ["tv"],
+      "contentLanguage": ["de"],
+      "formats": ["m3u8", "mp4"],
+      "logo": "https://www.google.com/s2/favicons?domain=serienstream.to&sz=128"
+    }
+  ]
+}
